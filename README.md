@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 🎟️ EventHub
 
 > A full-stack Event Management System built with the MERN stack that enables users to discover events, book tickets, and manage bookings while providing administrators with event management, analytics, and QR-based ticket verification.
@@ -254,3 +255,35 @@ If you found this project useful, consider giving it a ⭐ on GitHub.
 =======
 # EventManagementSystem
 >>>>>>> 3e6ac5c7a111f56fad1055f5a161a51079be5f51
+=======
+# Event Management System
+
+## About the Project
+
+The Event Management System is a web application designed to simplify event organization and management.
+
+## Features
+
+* User registration and login
+* Event listing and browsing
+* Event scheduling and management
+* Attendee tracking
+* Responsive user interface
+
+## Technologies Used
+
+* Frontend: React.js
+* Backend: Node.js and Express.js
+* Database: MongoDB
+
+## Installation and Setup
+
+1. Clone the repository.
+2. Install the backend and frontend dependencies using `npm install`.
+3. Configure the required environment variables in your `.env` file.
+4. Start the backend and frontend servers.
+
+## Note
+
+Configure your own database connection and environment variables before running the application.
+>>>>>>> 7b627424943c1b181159892d96968651d340b763

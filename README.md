@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎟️ EventHub
 
 > A full-stack Event Management System built with the MERN stack that enables users to discover events, book tickets, and manage bookings while providing administrators with event management, analytics, and QR-based ticket verification.
@@ -250,3 +251,6 @@ VITE_API_URL=
 Developed as part of a Web Development Internship to strengthen practical experience in designing and building scalable full-stack web applications using the MERN stack.
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
+=======
+# EventManagementSystem
+>>>>>>> 3e6ac5c7a111f56fad1055f5a161a51079be5f51

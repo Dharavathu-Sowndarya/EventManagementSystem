@@ -13,7 +13,6 @@ A full-stack Event Management System built with the MERN stack that enables user
 
 </p>
 
----
 
 ## 📖 About the Project
 
@@ -93,7 +92,6 @@ Add screenshots of your application in the `images` folder and use the following
 
 ## 📂 Project Structure
 
-```text
 Event-Management-System/
 ├── backend/
 │   ├── config/
@@ -113,70 +111,8 @@ Event-Management-System/
 │       └── utils/
 ├── images/
 └── README.md
-```
 
-## 🚀 Getting Started
 
-### Prerequisites
-
-* Node.js and npm
-* MongoDB instance or MongoDB Atlas account
-* Git
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/Dharavathu-Sowndarya/EventManagementSystem.git
-cd EventManagementSystem
-```
-
-### 2. Backend Setup
-
-```bash
-cd backend
-npm install
-```
-
-Create a `.env` file in the backend folder and configure the required variables:
-
-```env
-PORT=5000
-MONGODB_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-JWT_EXPIRE=7d
-CLIENT_URL=http://localhost:5173
-```
-
-Start the backend using the script defined in `backend/package.json`, for example:
-
-```bash
-npm run dev
-```
-
-### 3. Frontend Setup
-
-Open a second terminal:
-
-```bash
-cd frontend
-npm install
-```
-
-Create a frontend `.env` file if required:
-
-```env
-VITE_API_URL=http://localhost:5000/api
-```
-
-Start the frontend:
-
-```bash
-npm run dev
-```
-
-Use the local URL displayed in your terminal to open the application.
-
-**Note:** Environment variable names, scripts, and ports must match your actual project configuration. Never commit real passwords, API keys, or database credentials.
 
 ## 🔮 Future Enhancements
 
@@ -185,12 +121,5 @@ Use the local URL displayed in your terminal to open the application.
 * Google authentication
 * Real-time notifications
 
-## 👩‍💻 Author
 
-**Dharavathu Sowndarya**
 
-GitHub: [Dharavathu-Sowndarya](https://github.com/Dharavathu-Sowndarya)
-
-## ⭐ Support
-
-If you find this project useful, consider giving the repository a star on GitHub.
